@@ -1,5 +1,7 @@
 *.class
 
+bin
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -35,6 +37,8 @@ hs_err_pid*
 Network Trash Folder
 Temporary Items
 .apdisk
+.svn
+
 
 # Windows
 # =========================
